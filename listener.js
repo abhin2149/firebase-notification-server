@@ -10,21 +10,26 @@ admin.initializeApp({
 
 // Get a database reference to our posts
 var db = admin.database();
-var ref = db.ref("/");
+var ref = db.ref("/Chats");
 
 function addListener(key) {
     var all_keys = [];
     console.log('listener added', key);
-    var _ref = db.ref('/' + key);
+    var _ref = db.ref('/Chats/' + key);
     _ref.once("value", function (snapshot) {
+
+        //console.log('value',snapshot.val());
+
         snapshot.forEach(function (data) {
             all_keys.push(data.key);
         });
+
     });
+
     _ref.on("child_added", function (snapshot, prevChildKey) {
         var newPost = snapshot.val();
         if (!all_keys.includes(snapshot.key))
-            new_chat_added(snapshot.key, snapshot.val(), prevChildKey)
+            new_chat_added(key, newPost, prevChildKey,db)
     });
 }
 
