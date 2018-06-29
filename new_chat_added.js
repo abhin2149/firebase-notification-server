@@ -53,15 +53,6 @@ function new_chat_added(key, value, prev_key,db) {
 
                }
 
-               else{
-
-
-                   recipient="eMTNSgzes4M:APA91bHsxHj3xnRw4Min4VRKRhzVLlbFbvu7PnFx9tJUuHF2kHXS6SIUdz5Px_gp9tmOFN0RG8LSwR53m69UK9QBX8kBbLGywdNZMVku_H4tPgkV0J1GEN8L_o3_6GiBRACpZ1uXWvR-oH-NNmH7dOaqnAcI6Fqamw";
-
-
-
-               }
-
 
            });
 
@@ -90,15 +81,6 @@ function new_chat_added(key, value, prev_key,db) {
                 if(childSnapshot.key==='Admin'){
 
                     recipient=childSnapshot.val();
-
-
-                }
-
-                else{
-
-
-                    recipient="eMTNSgzes4M:APA91bHsxHj3xnRw4Min4VRKRhzVLlbFbvu7PnFx9tJUuHF2kHXS6SIUdz5Px_gp9tmOFN0RG8LSwR53m69UK9QBX8kBbLGywdNZMVku_H4tPgkV0J1GEN8L_o3_6GiBRACpZ1uXWvR-oH-NNmH7dOaqnAcI6Fqamw";
-
 
 
                 }
