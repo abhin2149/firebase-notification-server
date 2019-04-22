@@ -1,10 +1,10 @@
 {
   "type": "service_account",
   "project_id": "android-chat-firebase-74367",
-  "private_key_id": "2d4c9019619794715f8bc1f2d17bd2266f36f8f6",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCMc/1DDR0fIapQ\n45eH1TtvNBJZhLEfL2+ngllnsVjbzXZ+sWmW54gvzZVxB2XySjrn3F02AT4YSTaU\nehM8dGkuompRE/I5ExU7qSvegwyxkPWwJSikvGcAHNKMASlxWNbCcGd3hjeyY0GU\nHIsbuVB0BIFPqHMriYmZqrrnVzJTwrSmA4H1/Ng4kyMVd5HEzDTl88V7iFxQ412P\nnS6R1ZE8M8fVl7t5nu4vIBCjLFXWUNqRFLjXVPUekWwbYoZ0EH/BbDZZUkC+WIy2\nOl6Hy8Lc8ov6aKyzCRvveHbYizgeGYpm3kh6yupcs4aztx7TAlx7enzQYg50nSfy\nq2qqD7oxAgMBAAECgf9QToGgtP7Rrg4T8g3SPLme+8cCKDyd+CF/RaiZAW4tP21h\nQ098WSYlLwcjeXdw8cB8kiM5nbxDZpkujB4zktwRLgxcD2uP9rlNQ40xzPyVCq1v\n6c8zYgYCqng4VPG9PW6N/ncqgDOYa+gzJ57iWzMFIw5M3aP8YMesdVIotFKyUOi3\nx1feow65IwRFi0LxspAYD0+2Qdem9S3DhAqaQTvh3OcSXVcFMxxEFMC5JN0b6RKY\n+hu5u6QUX0nSs8PrdHZAwSMG6IM7Wg5fsKstuIkRyUXmcYf9i/+Boifnu3fX4dFt\nSGje6zS7/8oR+CFv4tfVT14ZUCgZ4XBEKWkoHQECgYEAxSsSz2rHSodNrJ/YYgba\n+dOjGM6SF2ZiJzBDHaS7wzJYzflyvFDKNLoylADTTpWPsJekMWaBeGmc1Xz2f7kG\npasim3846j4PiOi9BzcpxB2iqLjKDWJ8SsNmsZzbtUSPcFbANKqM+uCfp4pEnWoM\n9m34TnqZKq36CCiOBHQO47ECgYEAtlypUk/Ht3lnJbtBH5XJ3hZBGYI2OpS4KYYk\n2Ijkv5axmLCcFCEcM7k9B8xIstyV/1SEECi92+oOZb6TOQSLss9Lw+WbWHE4HWxu\nLqnNkA6LaIFLqwRVvu8QZMF0tMff9FuVEnOhRZIEhvAnmyboOpoHn4TolFl7fDnf\nAKc0XoECgYA1QnBfVQGmcSwbMEZ8HEv0ZiXNYqd16LMk0NWgYUpS7PuuD+7dTZmB\naraU4jAyLxZUZnH04jKg+y5hQNM5JxrTj4nWpSQTqlX57px5IX6HulWg6+GwgeT/\nMQ9BdRSoP2/bsaNT1qokbp7R2/iy6N29h3Emidlr/PjoUUQjkdIf0QKBgDRtNTx1\ntSv5Gf9N8y36aRuQ+Ew2FBMJWFyPtR4PVPwDfbEw7N4YmrwAAByyzR+mrPTHvmPK\n4rJLerIjdL3KocLZN6Xs55koi4Jh/tcpd/B3TfrQWQmkaGZI4kSlHUEvySG+BoBU\nf8O5c9W7SxeeutrGF3Tzx82GYCrZlFPivfqBAoGBAKE0QeUR4bLuMMIcVwis/rba\n+uc1IRjcbY/gqbwF2AnYjo90yU4yrfpacv6+lZUVf1q3WCC9T+wQ6V6YN5Hzf8B4\nsO2huq8G7zi1T6BcPNDmvLMJBDAAqq9BpechLLwbbPq+RR2v7o1+wvUKOeZQwtoN\nE+T5ZTPhab9aTxq7CdN8\n-----END PRIVATE KEY-----\n",
+  "private_key_id": "INSERT YOUR private key",
+  "private_key": "-----BEGIN PRIVATE KEY-----\n",
   "client_email": "firebase-adminsdk-swmy2@android-chat-firebase-74367.iam.gserviceaccount.com",
-  "client_id": "103940950929940535933",
+  "client_id": "YOUR_PRIVATE_KEY",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://accounts.google.com/o/oauth2/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
