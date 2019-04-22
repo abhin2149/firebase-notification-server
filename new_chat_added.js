@@ -13,7 +13,7 @@ function new_chat_added(key, value, prev_key,db) {
 
     var recipient="";
 
-    let sender = new gcm.Sender("AAAAVMreG_k:APA91bFALj-x4aaur_fMeMLCa4MrzSNppQkSpcYJNaZsP_IyFitMO2gecHzfwBFjxXTowm6nl_GXO2ib6jK--nk8IOojeNDP_cBbG3AsCI7wgATsliLoAfP70Az9VgaWfQEtqL6GpVOh");
+    let sender = new gcm.Sender("YOUR_API_KEY");
 
     let message = new gcm.Message({
         notification: {
